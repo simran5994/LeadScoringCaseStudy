@@ -22,10 +22,10 @@ There are quite a few goals for this case study:
 
 
 ## File Name Identification
-1. AssignmentSubjectiveAnswers.pdf - Contains Subjective Question and Answers
+1. AssignmentSubjectiveAnswersNew.pdf - Contains Subjective Question and Answers
 2. Leads.csv - data frame
 3. RegressionModel.ipynb - Python commented file
-4. SummaryReport.pdf - Summary Report PDF File
+4. SummaryReportNew.pdf - Summary Report PDF File
 5. Lead-Scoring-Case-Study-PPT.pdf - Presentation PDF file
  
  
