@@ -19,13 +19,13 @@ There are quite a few goals for this case study:
    these as well.
 3. These problems are provided in a separate doc file. Please fill it based on the logistic regression model you got in the first step. Also, make sure you include this in your final 
    PPT where you'll make recommendations.
- 
 
-## Results Expected
-1. A well-commented Jupyter notebook with at least the logistic regression model, the conversion predictions and evaluation metrics.
-2. The word document filled with solutions to all the problems.
-3. The overall approach of the analysis in a presentation.Mention the problem statement and the analysis approach briefly Explain the results in business termsInclude visualisations 
-   and summarise the most important results in the presentation
-4. A brief summary report in 500 words explaining how you proceeded with the assignment and the learnings that you gathered.
+
+## File Name Identification
+1. AssignmentSubjectiveAnswers.pdf - Contains Subjective Question and Answers
+2. Leads.csv - data frame
+3. RegressionModel.ipynb - Python commented file
+4. SummaryReport.pdf - Summary Report PDF File
+5. Lead-Scoring-Case-Study-PPT.pdf - Presentation PDF file
  
  
